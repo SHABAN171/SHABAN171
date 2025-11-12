@@ -1,7 +1,9 @@
 
 # Hi there 👋, I'm Shabani Hussein
 
+
 ![Profile Banner](https://img.shields.io/badge/Full-Stack-Developer-blueviolet?style=for-the-badge&logo=appveyor)
+
 
 I'm a passionate full-stack developer who loves building interactive and scalable web systems using **PHP, Laravel, and Django**. I enjoy transforming ideas into real-world solutions.
 
@@ -37,6 +39,9 @@ I'm a passionate full-stack developer who loves building interactive and scalabl
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255696533328)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shabani.official17/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHABAN171)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+
 
 ---
 
