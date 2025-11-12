@@ -1,10 +1,6 @@
 
 # Hi there 👋, I'm Shabani Hussein
 
-
-![Profile Banner](https://img.shields.io/badge/Full-Stack-Developer-blueviolet?style=for-the-badge&logo=appveyor)
-
-
 I'm a passionate full-stack developer who loves building interactive and scalable web systems using **PHP, Laravel, and Django**. I enjoy transforming ideas into real-world solutions.
 
 ---
