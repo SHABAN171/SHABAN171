@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Shabani Hussein
+# Hi there 👋, I'm Shabani Hussein Ndekupe
 
 I'm a passionate full-stack developer who loves building interactive and scalable web systems using **PHP, Laravel, and Django**. I enjoy transforming ideas into real-world solutions.
 
@@ -29,19 +29,32 @@ I'm a passionate full-stack developer who loves building interactive and scalabl
 
 ---
 
+### 📊 GitHub Stats
+
+![Shabani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHABAN171&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHABAN171&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHABAN171&theme=radical)
+
+---
+
 ### 🌐 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://its-shaban-s-portfolio.netlify.app/)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255696533328)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shabani.official17/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHABAN171)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHABAN171)
 
 ---
 
-✨ *“Turning ideas into reality, one line of code at a time.”*  
+### 👁️ Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/SHABAN171/count.svg)
+
+---
+
+✨ *“Turning ideas into reality, one line of code at a time.”*
+
 
 
 <!--
