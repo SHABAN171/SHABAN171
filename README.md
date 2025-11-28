@@ -1,11 +1,11 @@
 
-# Hi there 👋, I'm Shabani Hussein Ndekupe
+Hi, I'm Shabani Hussein Ndekupe
 
 I'm a passionate full-stack developer who loves building interactive and scalable web systems using **PHP, Laravel, and Django**. I enjoy transforming ideas into real-world solutions.
 
 ---
 
-### 🛠️ Technologies & Tools
+Technologies & Tools
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -21,9 +21,9 @@ I'm a passionate full-stack developer who loves building interactive and scalabl
 
 ---
 
-### 🚀 Featured Projects
+ Featured Projects
 
-- **[MediTrack Management System](https://github.com/SHABAN171)** – AI-powered health assistant for rural communities.  
+- **[MediTrack Management System](https://github.com/SHABAN171)** –  Health assistant for rural communities.  
 - **[Complaints Management System](https://github.com/SHABAN171)** – Full-stack system for managing user complaints efficiently.  
 - **[EcoVibe – Nature Awareness Hub](https://github.com/SHABAN171)** – Multimedia-rich website promoting environmental awareness.
 
