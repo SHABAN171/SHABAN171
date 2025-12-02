@@ -37,7 +37,7 @@ Technologies & Tools
 
 ---
 
-### 🌐 Connect with Me
+ Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://its-shaban-s-portfolio.netlify.app/)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255696533328)  
