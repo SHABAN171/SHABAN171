@@ -1,11 +1,11 @@
+# 👋 Hi, I'm Shabani Hussein Ndekupe
 
-Hi, I'm Shabani Hussein Ndekupe
-
-I'm a passionate full-stack developer who loves building interactive and scalable web systems using **PHP, Laravel, and Django**. I enjoy transforming ideas into real-world solutions.
+I'm a passionate **Full-Stack Developer** who loves building interactive and scalable web systems using **PHP, Laravel, and Django**.  
+I enjoy transforming ideas into real-world solutions that make an impact.
 
 ---
 
-Technologies & Tools
+## 💻 Technologies & Tools
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -21,23 +21,28 @@ Technologies & Tools
 
 ---
 
- Featured Projects
+## 🚀 Featured Projects
 
-- **[MediTrack Management System](https://github.com/SHABAN171)** –  Health assistant for rural communities.  
-- **[Complaints Management System](https://github.com/SHABAN171)** – Full-stack system for managing user complaints efficiently.  
-- **[EcoVibe – Nature Awareness Hub](https://github.com/SHABAN171)** – Multimedia-rich website promoting environmental awareness.
-
----
-
-### 📊 GitHub Stats
-
-![Shabani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHABAN171&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHABAN171&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHABAN171&theme=radical)
+| Project | Description | GitHub |
+|---------|-------------|--------|
+| **MediTrack Management System** | Health assistant for rural communities. | [View Repo](https://github.com/SHABAN171) |
+| **Complaints Management System** | Full-stack system for managing user complaints efficiently. | [View Repo](https://github.com/SHABAN171) |
+| **EcoVibe – Nature Awareness Hub** | Multimedia-rich website promoting environmental awareness. | [View Repo](https://github.com/SHABAN171) |
 
 ---
 
- Connect with Me
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHABAN171&show_icons=true&theme=radical&hide_border=true" alt="Shabani's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHABAN171&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHABAN171&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌐 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://its-shaban-s-portfolio.netlify.app/)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255696533328)  
@@ -47,27 +52,14 @@ Technologies & Tools
 
 ---
 
-### 👁️ Visitor Count
+## 👁️ Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/SHABAN171/count.svg)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SHABAN171/count.svg" alt="Visitor Count" />
+</div>
 
 ---
 
+### ⚡ Fun Fact
+I love learning new frameworks and libraries, and turning complex problems into elegant solutions.
 
-
-
-
-<!--
-**SHABAN171/SHABAN171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
