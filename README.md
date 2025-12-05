@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shabani Hussein Ndekupe
+#  Hi, I'm Shabani Hussein Ndekupe
 
 I'm a passionate **Full-Stack Developer** who loves building interactive and scalable web systems using **PHP, Laravel, and Django**.  
 I enjoy transforming ideas into real-world solutions.
