@@ -1,14 +1,13 @@
-
+Welcome to my Proffessional GitHub profile!!
 Hi, I'm Shabani Hussein Ndekupe
 
-I'm a passionate full-stack developer who loves building interactive and scalable web systems using **PHP, Laravel, and Django**. I enjoy transforming ideas into real-world solutions.
+I'm a passionate full-stack developer who loves building interactive and scalable web systems using **PHP and Django**. I enjoy transforming ideas into real-world solutions.
 
 ---
 
 Technologies & Tools
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
