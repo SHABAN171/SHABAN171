@@ -2,7 +2,7 @@ Welcome to my Proffessional GitHub profile!!
 
 Hi, I'm Shabani Hussein Ndekupe
 
-I'm a passionate full-stack developer who loves building interactive and scalable web systems using **PHP and Django**. I enjoy transforming ideas into real-world solutions.
+I'm a passionate full-stack developer and UI designer who loves building interactive and scalable web systems and mobile applications. I enjoy transforming ideas into real-world solutions.
 
 ---
 
