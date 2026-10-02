@@ -1,8 +1,11 @@
 Welcome to my Proffessional GitHub profile!!
 
-Hi, I'm Shabani Hussein Ndekupe.
+# <div align="center">
 
-I'm a passionate full-stack developer and UI designer who loves building interactive and scalable web systems and mobile applications. I enjoy transforming ideas into real-world solutions.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=SHABANI%20H%20NDEKUPE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=36"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=24\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=900\&lines=Full-Stack+Developer;Backend+Engineer;UI%2FUX+Designer;Flutter+Developer;AI+Solutions+Builder;Open+Source+Enthusiast)](https://git.io/typing-svg)
+
 
 ---
 
@@ -21,6 +24,12 @@ Technologies & Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma"/>
+</p>
 
  Featured Projects
 
