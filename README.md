@@ -1,6 +1,6 @@
 Welcome to my Proffessional GitHub profile!!
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFB703,100:FB8500&height=220&section=header&text=SHABANI%20H%20NDEKUPE&fontSize=44&fontColor=1E1E2E&animation=scaleIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=00F5A0&letterSpacing=0.1em&center=true&vCenter=true&width=700&height=50&lines=System+Administrator;Full-Stack+Developer;Backend+Engineer;UI%2FUX+Designer)](https://git.io/typing-svg)
 
